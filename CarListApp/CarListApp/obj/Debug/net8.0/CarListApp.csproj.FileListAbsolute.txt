@@ -1,0 +1,14 @@
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\CarListApp\CarListApp\bin\Debug\net8.0\CarListApp.exe
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\CarListApp\CarListApp\bin\Debug\net8.0\CarListApp.deps.json
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\CarListApp\CarListApp\bin\Debug\net8.0\CarListApp.runtimeconfig.json
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\CarListApp\CarListApp\bin\Debug\net8.0\CarListApp.dll
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\CarListApp\CarListApp\bin\Debug\net8.0\CarListApp.pdb
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\CarListApp\CarListApp\obj\Debug\net8.0\CarListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\CarListApp\CarListApp\obj\Debug\net8.0\CarListApp.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\CarListApp\CarListApp\obj\Debug\net8.0\CarListApp.AssemblyInfo.cs
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\CarListApp\CarListApp\obj\Debug\net8.0\CarListApp.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\CarListApp\CarListApp\obj\Debug\net8.0\CarListApp.dll
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\CarListApp\CarListApp\obj\Debug\net8.0\refint\CarListApp.dll
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\CarListApp\CarListApp\obj\Debug\net8.0\CarListApp.pdb
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\CarListApp\CarListApp\obj\Debug\net8.0\CarListApp.genruntimeconfig.cache
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\CarListApp\CarListApp\obj\Debug\net8.0\ref\CarListApp.dll
