@@ -1,0 +1,10 @@
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\ArabaBilgiFormu.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\ArabaBilgiFormu.Form1.resources
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\ArabaBilgiFormu.Properties.Resources.resources
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\ArabaBilgiFormu.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\ArabaBilgiFormu.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\ArabaBilgiFormu\ArabaBilgiFormu\bin\Debug\ArabaBilgiFormu.exe.config
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\ArabaBilgiFormu\ArabaBilgiFormu\bin\Debug\ArabaBilgiFormu.exe
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\ArabaBilgiFormu\ArabaBilgiFormu\bin\Debug\ArabaBilgiFormu.pdb
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\ArabaBilgiFormu.exe
+C:\Users\acer\OneDrive\Masaüstü\constuctorr\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\ArabaBilgiFormu.pdb
